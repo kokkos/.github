@@ -1,7 +1,8 @@
 # Reporting Security Vulnerabilities
 
 Please report security vulnerabilities privately through
-[GitHub's private vulnerability reporting mechanism](https://github.com/kokkos/kokkos/security/advisories/new).
+[GitHub's private vulnerability reporting mechanism](/security/advisories/new)
+for this repository.
 For guidance on submitting a report, see GitHub's
 [Report privately documentation](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately).
 Do not report security vulnerabilities through public issues, discussions, or
