@@ -1,9 +1,10 @@
 # Reporting Security Vulnerabilities
 
-Please report security vulnerabilities privately through
-[GitHub's private vulnerability reporting mechanism](/security/advisories/new)
-for this repository.
-For guidance on submitting a report, see GitHub's
+Please report security vulnerabilities privately through GitHub. Open this
+repository's **Security** tab. Click **Report a vulnerability** in the
+upper-right corner of that page. Fill out the form and submit your draft
+security advisory.
+For more guidance on submitting a report, see GitHub's
 [Report privately documentation](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately).
 Do not report security vulnerabilities through public issues, discussions, or
 pull requests.
